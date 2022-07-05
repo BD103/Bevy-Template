@@ -1,0 +1,14 @@
+[template]
+ignore = [
+    ".idea"
+]
+
+[placeholders.bevy_inspector_egui]
+type = "bool"
+prompt = "Would you like to use bevy-inspector-egui?"
+default = true
+
+[placeholders.bevycheck]
+type = "bool"
+prompt = "Would you like to use bevycheck?"
+default = true
